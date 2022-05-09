@@ -6,25 +6,6 @@ If the outline width is set to 2mm the resulting logotype should match exactly w
 
 <img src="/images/logotype_example.jpg" width="800">
 
-## Printing instructions
-The model has been printed and tested on the Prusa MK3S/MMU2S printer using Prusament PETG filament. All parts fit on a 20x20 printing bed.
-
-### Recommended print settings
-
-Print settings (for Prusa Slicer) are the same for all included parts:
-
-* Material: PETG
-* Layer: 0.30mm
-* Infill: 25%
-* Supports: No Supports
-
-# Assembly
-Connect the display the cable bracket and run the cable up the bracket towards the top of the LCD.  Insert the display and bracket into the lower case part; it should push in firmly.
-
-Route the cable out of the back of the lower holder and push the upper case down onto the display. The two tabs at the back will lock into place holding the two case parts firmly together.
-
-Apply some double-sided foam mirror tape to the case and affix to the Renault Twizy.  See the included pictures for the suggested mounting location.
-
 ## Author
 This project is designed and maintained by Simon Inns.
 
